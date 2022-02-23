@@ -15,4 +15,4 @@ Este repositório mantém os **datasets** e os **dashboards** dos projetos que d
 
 ### 🌐 Motivação
 
-Projetos utilizando **Power BI** afim de praticar os conhecimentos desenvolvidos no treinamento [Microsoft Power BI para Data Science, Versão 2.0](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science) da Data Science Academy e compor como portfólio.
+Projetos utilizando **Power BI** a fim de praticar os conhecimentos desenvolvidos no treinamento [Microsoft Power BI para Data Science, Versão 2.0](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science) da Data Science Academy e compor como portfólio.
